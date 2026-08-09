@@ -22,7 +22,10 @@ RAW
 [![](https://visitcount.itsvg.in/api?id=lmdelm-dev&icon=0&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lmdelmdev) 
-
+| Asset    | Network            | Address                                   |
+| -------- | ------------------ | ----------------------------------------- |
+| **BTC**  | Bitcoin            | `3Mwd6sMRXxX71NFZGJQNrThYjykf9EXnXB`      |
+| **ETH**  | Ethereum           | `0x052fa46dfbc04d2c62787f0986d6f6a707e36c64` |
+| **USDT** | TRC-20 (TRON)      | `TPF2mVQZbTrNFhZG7qEVx9wNhSU9jnSrGZ`      |
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
